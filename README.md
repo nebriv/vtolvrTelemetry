@@ -12,3 +12,7 @@ Current Telemetry Data Available:
 Default Settings:
 Destination IP: 127.0.0.1
 Destination Port: 4123
+
+# SimTools
+This data can be fed to a motion chair, I've put together a plugin for SimTools here:
+https://github.com/nebriv/VTOLVR-SimTools
